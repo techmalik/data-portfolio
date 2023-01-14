@@ -14,5 +14,8 @@ Project Name  | Description   |  Keywords
 [Analyzing CIA Factbook Data Using SQL](https://github.com/techmalik/CIAFactBookSQL)  | * Performed basic analysis on the CIA Factbook using SQL on Jupyter Notebook. </br> * Analysis include querying countries with min/max population or population growth. | SQL, Python, EDA.
 
 
+</br>
+</br>
 
+Contact me via [LinkedIn](https://www.linkedin.com/in/malik-kabir-mustapha/)
 
