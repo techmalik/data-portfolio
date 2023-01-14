@@ -1,2 +1,2 @@
-# data-portfolio
-Data portfolio containing projects in Machine Learning, Data Science, Data Engineering using tools such as SQL, Python, R, Streamlit, Comet, and APIs. 
+# My Data-Portfolio
+This data portfolio is a comprehensive collection of projects that demonstrate my expertise in utilizing SQL, Python, and R for data analysis, manipulation, and machine learning. Each project in the portfolio presents a unique and creative solution to a real-world problem, showcasing my ability to think critically and apply my skills to a variety of situations. From querying databases with complex SQL statements to wrangling and analyzing data with Python and R, the portfolio is a testament to my ability to extract valuable insights from vast amounts of information. It is a showcase of my mastery of data and a testament to my ability to work with data as a true data wizard, casting spells and conjuring insights with every line of code I write.
