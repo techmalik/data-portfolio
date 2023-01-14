@@ -1,2 +1,10 @@
 # My Data-Portfolio
-This data portfolio is a comprehensive collection of projects that demonstrate my expertise in utilizing SQL, Python, and R for data analysis, manipulation, and machine learning. Each project in the portfolio presents a unique and creative solution to a real-world problem, showcasing my ability to think critically and apply my skills to a variety of situations. From querying databases with complex SQL statements to wrangling and analyzing data with Python and R, the portfolio is a testament to my ability to extract valuable insights from vast amounts of information. It is a showcase of my mastery of data and a testament to my ability to work with data as a true data wizard, casting spells and conjuring insights with every line of code I write.
+This data portfolio demonstrates expertise in SQL, Python, and R for data analysis and machine learning, showcasing critical thinking and problem-solving skills: 
+
+Project Name  | Description   |  Keywords
+------------- | ------------- | ------------------
+[Climate Change Belief Analysis](https://github.com/techmalik/Climate-Change-Belief-analysis-2207ACDS_Team_GM1)  | * Developed a machine learning model to classify tweets based on climate change sentiment. * Used Logistic Regression model. * Created a streamlit app for demonstration. * Hosted it on AWS EC2. * Connectivity using Flask API. | EDA, Modeling, Parameter tuning, deployment
+[Climate Change Belief Analysis](https://github.com/techmalik/Climate-Change-Belief-analysis-2207ACDS_Team_GM1)  | * Developed a machine learning model to classify tweets based on climate change sentiment. * Used Logistic Regression model. * Created a streamlit app for demonstration. * Hosted it on AWS EC2. * Connectivity using Flask API. | EDA, Modeling, Parameter tuning, deployment
+
+
+
